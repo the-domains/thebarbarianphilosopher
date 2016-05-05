@@ -1,0 +1,28 @@
+name: Thebarbarianphilosopher
+favicon: null
+layout_spectrum: 0.7788495554123074
+typography_spectrum: 0.6261929434258491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4233120169956237
+  lightness: 0.439429180463776
+  saturation: 0.9060709825716913
+  rhythmicContrast: 0.5069999534171075
+purpose: []

@@ -1,9 +1,7 @@
+name: The Barbarian Philosopher
 favicon: null
-name: Thebarbarianphilosopher
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.188172
+typography_spectrum: 0.8178017
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9060709825716913
-  brandStrength: 0.4233120169956237
-  lightness: 0.439429180463776
   brandColors:
     - '#6A8DCF'
     - '#FFFFFF'
     - '#8AB4E8'
     - '#222F37'
     - '#4C6687'
+  brandStrength: 0.4233120169956237
+  lightness: 0.439429180463776
+  saturation: 0.9060709825716913
   rhythmicContrast: 0.5069999534171075
-typography_spectrum: 0.8178017
-layout_spectrum: 0.188172
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
